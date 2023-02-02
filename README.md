@@ -4,4 +4,4 @@ in terrorist attacks. Subsequently, we adopted the KG to train a graph neural ne
 improvement to state-of-the-art.
 
 Methodology overview:
-![Screenshot](methodology.png)
+![Screenshot](methodology.PNG)
