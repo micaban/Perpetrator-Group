@@ -5,3 +5,12 @@ improvement to state-of-the-art.
 
 Methodology overview:
 ![Screenshot](methodology.PNG)
+
+For more detail description refer to the uploaded paper.
+
+## Usage
+In this repository, you will find two Jupyter notebooks, each serving a specific purpose in the data analysis and link prediction process.
+
+1) Preprocessing and Feature Analysis Notebook: This notebook is dedicated to data preprocessing and feature analysis. It includes steps to clean and prepare the data for further analysis. Additionally, it explores the dataset's characteristics and extracts relevant features to be used in the link prediction model.
+
+2) Link Prediction Model Training Notebook: In this notebook, the data from the Knowledge Graph (KG) is retrieved, and a link prediction model is trained. The link prediction model is designed to predict potential relationships between group and event in the KG based on the extracted features from the preprocessing stage. This notebook covers model training and evaluation of the link prediction.
